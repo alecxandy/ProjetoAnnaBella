@@ -1,0 +1,19 @@
+#pgtotal{
+	width: 900px;
+	border: 1px red solid;
+}
+#foto2{
+	width: 900px;
+}
+#menu{
+	padding: 15px;
+	text-decoration: none;
+	border: red solid 1px;
+}
+a{
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	border: 2px red solid; 
+	padding: 5px;
+}
